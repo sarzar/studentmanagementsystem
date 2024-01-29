@@ -1,0 +1,11 @@
+.student-page{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+}
+
+.div-box{
+        width: 60%;
+        margin-left: 20%; 
+}

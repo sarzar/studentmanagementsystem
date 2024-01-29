@@ -1,0 +1,25 @@
+.display-data-container {
+    margin-top: 20px;
+  }
+  
+  .data-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table-header {
+    background-color: #7d1e1e;
+    color: #fff;
+  }
+  
+  .table-row {
+    border: 1px solid #ddd;
+  }
+  
+  .table-cell {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  
+  

@@ -1,0 +1,10 @@
+.courses-page{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+}
+.courses-page h1{
+    width: 60%;
+    margin-left: 20%;
+}

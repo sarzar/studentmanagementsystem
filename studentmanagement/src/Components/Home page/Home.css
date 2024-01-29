@@ -1,0 +1,10 @@
+.home-page{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+}
+.home-page .div-box{
+    width: 60%;
+    margin-left: 20%;
+}
